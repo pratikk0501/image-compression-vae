@@ -1,6 +1,7 @@
 # image-compression-vae
+![generative_ai](https://github.com/pratikk0501/image-compression-vae/blob/main/images/generative_ai.webp)
 # Project Description
-* This is a course project titled 'Image Compression and Reconstruction Using VAE' done in under the guidance of Prof. Asim Tewari in the Statistical Machine Learning and Data Mining Course(ME-781), IIT Bombay.
+* This is a course project titled 'Image Compression and Reconstruction Using VAE' done under the guidance of Prof. Asim Tewari with a six-person team in the Statistical Machine Learning and Data Mining Course(ME-781), IIT Bombay.
 * This project was focused on data compression using VAE(Variational Autoencoders) to learn compact representations of data while retaining essential information.
 ## Objectives
 * Reduce the size of input data while preserving its essential features.
@@ -19,4 +20,6 @@
 2. Reconstruction: Used trained decoder to reconstruct the data from the compressed latent space.
 3. Visualisation: Visualised the reconstructed images for qualitative assessment.
 * Images before passing to the model:
+![Before_VAE](https://github.com/pratikk0501/image-compression-vae/blob/main/images/original_mnist_images.png)
 * Reconstructed images by decoder:
+![After_VAE](https://github.com/pratikk0501/image-compression-vae/blob/main/images/reconstructed_images.png)
